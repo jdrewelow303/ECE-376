@@ -1,0 +1,21 @@
+_srand: CODE, 8096 0 30
+_abs: CODE, 7942 0 56
+_Start: CODE, 5896 0 314
+_Wait_ms: CODE, 7566 0 126
+_LCD_Inst: CODE, 7804 0 78
+_IntServe: CODE, 6442 0 230
+_Score: CODE, 5566 0 330
+___lmul: CODE, 6856 0 164
+_main: CODE, 4212 0 1354
+_RandomColor: CODE, 8052 0 44
+_LCD_Out: CODE, 6210 0 232
+_LCD_Move: CODE, 7306 0 132
+_LCD_Strobe: CODE, 8126 0 20
+_LCD_Pause: CODE, 7998 0 54
+___lwdiv: CODE, 6672 0 184
+_LCD_Write: CODE, 7882 0 60
+_LCD_Init: CODE, 7438 0 128
+_rand: CODE, 7172 0 134
+___lwmod: CODE, 7020 0 152
+_A2D_Read: CODE, 7692 0 112
+Total: 3934
