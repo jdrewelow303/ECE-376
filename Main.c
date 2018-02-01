@@ -151,13 +151,6 @@ LCD_Move(1,0);  for (int i=0; i<16; i++) LCD_Write(MSG3[i]);
    TMR0IE = 1;
    TMR0IP = 1;
    PEIE = 1;
-// set up Timer1 for PS = 1
-   //T1CON = 0x81;
-   //TMR1ON = 1;
-   //TMR1IE = 1;
-   //TMR1IP = 1;
-   //PEIE = 1;
-   //TMR1CS = 0;
 
 // turn on all interrupts
    GIE = 1;
